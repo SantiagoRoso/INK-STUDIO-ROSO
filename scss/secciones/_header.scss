@@ -1,0 +1,24 @@
+
+    header{
+        .container{
+            img{
+                width: 125px;
+            }
+
+            .navbar-collapse{
+                justify-content: flex-end;
+
+                .navbar-nav{
+                    a{
+                        color: black;
+
+                        &:hover{
+
+                            color: red;
+                        }
+                    }
+                }
+            }
+
+        }
+    }

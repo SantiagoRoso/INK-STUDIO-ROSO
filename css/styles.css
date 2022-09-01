@@ -1,0 +1,32 @@
+header .container img {
+  width: 125px; }
+
+header .container .navbar-collapse {
+  justify-content: flex-end; }
+header .container .navbar-collapse .navbar-nav a {
+    color: black; }
+header .container .navbar-collapse .navbar-nav a:hover {
+      color: red; }
+
+.main {
+  min-height: 120vh;
+  background-image: url(../logo-nav.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+main h1 {
+  color: white; }
+
+main p {
+  color: white; }
+
+.card-text {
+  color: black; }
+
+footer {
+  min-height: 5vh;
+  background-color: #3f3f3f; }
+footer a {
+    text-decoration: none;
+    color: white; }
